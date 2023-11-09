@@ -1,0 +1,50 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "pname": "Biriyani",
+      "image": "https://i.postimg.cc/T1QBqVSz/Chicken-biriyani-recipe-scaled.webp",
+      "price": "180",
+      "description": "Chicken Biriyani with curd"
+    },
+    {
+      "id": 2,
+      "pname": "Chapathi",
+      "image": "https://i.postimg.cc/T1QBqVSz/Chicken-biriyani-recipe-scaled.webp",
+      "price": "180",
+      "description": "Chicken Biriyani with curd"
+    },
+    {
+      "id": 3,
+      "pname": "Porota",
+      "image": "https://i.postimg.cc/T1QBqVSz/Chicken-biriyani-recipe-scaled.webp",
+      "price": "180",
+      "description": "Chicken Biriyani with curd"
+    },
+    {
+      "id": 4,
+      "pname": "Cilli Chicken",
+      "image": "https://i.postimg.cc/ZnfDyTvZ/meals.jpg",
+      "price": "180",
+      "description": "Chicken Biriyani with curd"
+    },
+    {
+      "id": 5,
+      "pname": "Veg Meal",
+      "image": "https://i.postimg.cc/ZnfDyTvZ/meals.jpg",
+      "price": "180",
+      "description": "Chicken Biriyani with curd"
+    }
+  ],
+  "users": [
+    {
+      "uname": "Nikhil Joy",
+      "psw": "1234",
+      "mobile": "9745334644",
+      "email": "nikhiljoy16@gmail.com",
+      "cart":[
+        
+      ]
+    }
+  ]
+}
